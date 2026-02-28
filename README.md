@@ -1,4 +1,6 @@
 # Tumor-Growth-Modeling
+Tumor Growth Modeling in R
+
 This project analyzes longitudinal tumor growth data from placebo-treated mice.
 
 Methods
@@ -18,8 +20,10 @@ Parameters estimated per mouse independently
 Structure
 
 /data – cleaned datasets
+
 /scripts – R scripts for preprocessing and model fitting
 
 Author
-Wallstreet Petrus-Nihi
+
+Your Name
 Calculus Research Project
